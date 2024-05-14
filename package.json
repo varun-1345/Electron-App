@@ -1,0 +1,27 @@
+{
+  "name": "dummy-electron-app",
+  "version": "1.0.0",
+  "description": "This is a dummy app",
+  "main": "main.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "keywords": [
+    "electronjs",
+    "reactjs"
+  ],
+  "author": "Varun Varma",
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "electron": "^18.0.0",
+    "electronmon": "^2.0.3",
+    "react": "^18.3.1",
+    "react-bootstrap": "^2.10.2",
+    "react-dom": "^18.3.1",
+    "serialport": "^12.0.0",
+    "tableify": "^1.1.1"
+  }
+}
